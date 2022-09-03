@@ -19,7 +19,7 @@
 
 ## Uso
 - Una vez compilado el programa, ejecute el binario: app/dist/programa.
-- Este le pedirá ingresar un polinomio, por ejemplo: "x\*\*3 + x - 1" para calcular sus raices.
+- Este le pedirá ingresar un polinomio, por ejemplo: "x\*\*3 + x + 4" para calcular sus raices.
 
 <br>
 
