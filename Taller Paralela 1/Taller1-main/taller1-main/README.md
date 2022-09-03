@@ -12,7 +12,7 @@
 <br>
 
 ## Instalación
-- Bien puede compilar usando la herramienta 'make' dentro del directorio 'app'
+- puede compilar usando la herramienta 'make' dentro del directorio 'app'
 - O tambien haciendo uso de docker: docker build -t taller1 .
 
 <br>
